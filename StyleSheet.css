@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+section > strong {
+  text-decoration: underline;
+}
